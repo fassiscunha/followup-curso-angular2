@@ -1,5 +1,7 @@
 # Angular 2  Boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/loiane/angular-2-boilerplate.svg)](https://greenkeeper.io/)
+
 ## Description
 Angular 2 starter project using TypeScript
 
